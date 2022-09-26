@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e60af7-9606-43ce-a3a6-a41357af9c17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mpj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Efnpalaa9GKOJafKxrQ0yTbQ94" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/lipsolix/Downloads/mpj-v0_44/lib/mpj.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main5">
+    <configuration name="Main1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="MPJ_HOME" value="$USER_HOME$/Downloads/mpj-v0_44" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/temurin-11.0.15" />
+        <env name="PATH" value="$USER_HOME$/.jdks/temurin-11.0.15/bin:$PATH" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main1" />
+      <module name="dps" />
+      <option name="VM_PARAMETERS" value="-jar $USER_HOME$/Downloads/mpj-v0_44/lib/starter.jar -np 4" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="MPJ_HOME" value="$USER_HOME$/Downloads/mpj-v0_44" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/temurin-11.0.15" />
+        <env name="PATH" value="$USER_HOME$/.jdks/temurin-11.0.15/bin:$PATH" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="dps" />
+      <option name="VM_PARAMETERS" value="-jar $USER_HOME$/Downloads/mpj-v0_44/lib/starter.jar -np 4" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="MPJ_HOME" value="$USER_HOME$/Downloads/mpj-v0_44" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/temurin-11.0.15" />
+        <env name="PATH" value="$USER_HOME$/.jdks/temurin-11.0.15/bin:$PATH" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="dps" />
+      <option name="VM_PARAMETERS" value="-jar $USER_HOME$/Downloads/mpj-v0_44/lib/starter.jar -np 16" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="MPJ_HOME" value="$USER_HOME$/Downloads/mpj-v0_44" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/temurin-11.0.15" />
+        <env name="PATH" value="$USER_HOME$/.jdks/temurin-11.0.15/bin:$PATH" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main4" />
+      <module name="dps" />
+      <option name="VM_PARAMETERS" value="-jar $USER_HOME$/Downloads/mpj-v0_44/lib/starter.jar -np 16" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="MPJ_HOME" value="$USER_HOME$/Downloads/mpj-v0_44" />
+        <env name="JAVA_HOME" value="$USER_HOME$/.jdks/temurin-11.0.15" />
+        <env name="PATH" value="$USER_HOME$/.jdks/temurin-11.0.15/bin:$PATH" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main5" />
+      <module name="dps" />
+      <option name="VM_PARAMETERS" value="-jar $USER_HOME$/Downloads/mpj-v0_44/lib/starter.jar -np 16" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main4" />
+      <item itemvalue="Application.Main5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e60af7-9606-43ce-a3a6-a41357af9c17" name="Changes" comment="" />
+      <created>1662995692267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662995692267</updated>
+      <workItem from="1662995693417" duration="11877000" />
+      <workItem from="1663952993545" duration="31000" />
+      <workItem from="1664214523245" duration="12973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
